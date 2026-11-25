@@ -1,0 +1,7 @@
+# Live Scripts in plain-text format: keep LF endings, treat as text
+*.m      text eol=lf
+*.md     text eol=lf
+# Images are binary
+*.png    binary
+*.jpg    binary
+*.jpeg   binary

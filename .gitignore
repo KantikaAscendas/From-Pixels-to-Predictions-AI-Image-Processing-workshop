@@ -1,0 +1,14 @@
+# MATLAB autosave, cache and generated files
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+*.slxc
+# Files participants create while working (app sessions, exports)
+*.mat
+*_session*.mat
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
