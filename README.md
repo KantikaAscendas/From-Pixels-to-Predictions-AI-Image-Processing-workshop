@@ -51,10 +51,6 @@ matlab-image-ai-workshop/
 └── DATA_SOURCES.md
 ```
 
-## ภาษาไทย (Thai quick start)
-
-ดาวน์โหลด ZIP แล้วแตกไฟล์ ใน MATLAB ตั้ง Current Folder เป็นโฟลเดอร์ของ Lab (Lab01_Nuclei หรือ Lab02_Anomaly) เปิดไฟล์ `.m` ใน Live Editor แล้วทำตามทีละขั้น ใช้ปุ่ม **Run Section** ทุกครั้ง
-
 ## Notes
 
 - Results are for learning only. They are not a medical diagnosis or a validated inspection system.
